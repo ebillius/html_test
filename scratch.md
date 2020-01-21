@@ -40,3 +40,8 @@ Fast-forward
  1 file changed, 27 insertions(+)
  create mode 100644 scratch.md
 
+
+# to PUSH TO repository
+billius@bux:~/_repo/html_test$ git push origin master
+Username for 'https://github.com': ebillius
+Password for 'https://ebillius@github.com': 
