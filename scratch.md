@@ -25,3 +25,18 @@ $ git remote -v
 Push the changes in your local repository to GitHub.
 $ git push origin master
 # Pushes the changes in your local repository up to the remote repository you specified as origin
+
+
+
+#to pull FROM repository
+$ git pull origin master
+
+billius@bux:~/_repo/html_test$ git pull origin master
+From https://github.com/ebillius/html_test
+ * branch            master     -> FETCH_HEAD
+Updating 58ab9ec..8b3758d
+Fast-forward
+ scratch.md | 27 +++++++++++++++++++++++++++
+ 1 file changed, 27 insertions(+)
+ create mode 100644 scratch.md
+
